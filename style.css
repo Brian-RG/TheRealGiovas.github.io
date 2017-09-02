@@ -1,0 +1,68 @@
+*{
+  font-family:'Encode Sans Semi Condensed', sans-serif ;
+}
+h1{
+  text-align: center;
+  background-color: #3C3B3B;
+  color: white;
+  margin-bottom: 30px;
+}
+
+h2{
+  text-align: center;
+
+}
+
+li{
+margin: 4px;
+font-family: 'Roboto', sans-serif;
+padding: 10px;
+background-color:#58ACFA;
+display: inline-block;
+}
+.uno{
+  margin-left: -30px;
+}
+
+.dos{
+  margin-top: 50px;
+  margin-left: 80px;
+}
+.tres{
+  margin-top: 50px;
+  margin-left: 250px;
+}
+.b{
+  background-color: #A9C4F6;
+}
+
+.a {
+  background-color: #CEE3F6;
+}
+p{
+  font-size: 13px;
+  margin-top: 50px;
+}
+
+.feedback p{
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  border-radius: 25px;
+  margin: 40px;
+  padding: 30px;
+  background-color: #A9A9A9;
+  display: inline-block;
+}
+.feedback{
+  text-align: center;
+  margin-top: 60px;
+
+}
+.hecho{
+  background-color: #EC5555;
+}
+
+
+#Description p{
+
+}
