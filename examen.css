@@ -1,0 +1,52 @@
+section{
+margin:400px;
+margin-top: 20px;
+margin-bottom: 80px;
+}
+p{
+  font-family: 'Encode Sans Semi Condensed', sans-serif;
+}
+.titulo{
+  text-align: center;
+  font-family:'Roboto', sans-serif;
+}
+.motivacion{
+  text-align: center;
+  margin-right: 0px;
+  margin-left: 0px;
+  background-color: #58FA58;
+
+}
+h1{
+  font-size: 30px;
+}
+
+.cuantitativa{
+  padding: 40px;
+  margin-right: 350px;
+  margin-left: 350px;
+background-color: #CED8F6;
+border-radius: 30px;
+}
+.inicial{
+  margin-right: 350px;
+  margin-left: 350px;
+}
+.gif{
+  margin-left: 50px;
+}
+.Colorbox{
+  border-radius: 30px;
+  padding: 30px;
+  width: 90%;
+  height: 90%;
+  background-color: #FFB6C1;
+  -webkit-animation-name: anim;
+  animation-name: anim;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+}
+@keyframes anim{
+  from {background-color: #FFB6C1;}
+  to {background-color: 	#90EE90;}
+}
