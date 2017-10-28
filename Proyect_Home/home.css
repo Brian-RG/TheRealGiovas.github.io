@@ -1,0 +1,224 @@
+*{
+
+    text-align: center;
+    margin: 20px;
+    font-family: "roboto";
+
+}
+h1{
+    font-family: "Open sans";
+    font-size: 70px;
+}
+
+header{
+    margin-top: 50;
+}
+
+
+.menu{
+    margin-left: 850px;
+  
+}
+.descG{
+
+    font-size: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-bottom: 50px;
+}
+
+.descG p{
+    margin: 0;
+}
+
+.reporte{
+    display: inline-block;
+    padding: 10px;
+
+}
+
+.academica{
+    height: 300px;
+    color: ghostwhite;
+    background-color: darkslategrey;
+    display: inline-block;
+    padding:40px;
+    
+}
+.boton{
+    font-size: 20px;
+    padding: 10px;
+    background-color: dodgerblue;
+    border-radius: 10px;
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.proto{
+ margin: 100px;   
+}
+
+.proto p{
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#a a{
+     text-decoration:none;
+}
+
+#b a:visited{
+    color: white;
+}
+
+#a a:visited{
+     color: white;
+}
+
+#b a{
+     text-decoration:none;
+}
+
+#a{
+
+    margin-right: 0;
+    background-color:#4DBBF2;
+    font-size: 60px;
+    color:ghostwhite;
+    display:inline-block;
+    border-bottom-right-radius: 0;
+    border-top-right-radius: 0;
+}
+#b{
+   
+    margin-left: 0;
+     background-color:#FF2525;
+    color:ghostwhite;
+     font-size: 60px;
+    display: inline-block;
+     border-bottom-left-radius: 0;
+    border-top-left-radius: 0;
+}
+
+.solution{
+       font-size: 20px;
+}
+
+.solution .boton{
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.persona{
+    font-size: 30px;
+    padding: 60px;
+    border-radius: 20px;
+    display: inline-block;
+    background-color: limegreen;
+    color: white;
+}
+
+
+#perfil{
+  padding: 70PX;  
+}
+
+
+
+#personalidad{
+  
+     padding: 70PX;
+    padding-left: 40px;
+     padding-right: 40px;
+}
+
+
+
+#referentes{
+  
+         padding: 70PX;
+    padding-left: 40px;
+     padding-right: 40px;
+}
+#arqueotipos{
+
+      padding-top: 95PX;
+    padding-left: 40px;
+     padding-right: 40px;
+}
+#techExpertice{
+    
+}
+#experience{
+    
+}
+#platforms{
+    margin-top: -30px;
+     padding-bottom: 90px;
+     padding-top: 60PX;
+    padding-left: 40px;
+     padding-right: 40px;  
+}
+#apps{
+      padding: 60PX;
+    padding-left: 40px;
+     padding-right: 40px; 
+}
+#must{
+    padding-top: 70px;
+     padding: 50PX;
+    padding-bottom: 60px;
+   
+}
+#relMarc{
+    
+}
+
+.person{
+        background-color: darkslategray;
+    margin-top:20px; 
+
+}
+
+.solution{
+    font-family: open-sans;
+    font-size: 40px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.videos{
+    margin: 30px;
+    display: inline-block;
+}
+#exprt{
+    display: inline-block;
+}
+
+.pop{
+    
+    border-radius: 30px;
+    color: whitesmoke;
+    position: fixed;
+    margin-top: 200px;
+    margin-left: 400px;
+    z-index: 1;
+    background-color: cadetblue;
+    
+}
+
+#franja{
+    font-size: 30px;
+    margin-left: 60px;
+    width: 1000px;
+    height: 40px;
+}
+
+#personalidadR{
+    border-radius: 30px;
+    color: whitesmoke;
+    position: fixed;
+    margin-top: 0px;
+    margin-left: 400px;
+    z-index: 1;
+    background-color: cadetblue;
+}
+

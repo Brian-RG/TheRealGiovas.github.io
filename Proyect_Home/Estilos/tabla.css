@@ -1,0 +1,21 @@
+.calendar{
+  width: 100%;
+}
+.calendar,th,td{
+  border: solid 1px;
+  border-collapse: collapse;
+}
+
+.Month{
+  font-size: 20px;
+  text-align: center;
+  width: 100%;
+}
+
+.Days{
+  height: 70px;
+}
+
+.Days td{
+  padding-bottom:50px;;
+}

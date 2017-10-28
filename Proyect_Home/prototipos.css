@@ -1,0 +1,24 @@
+*{
+        font-family: "roboto";
+    background-color: #FE642E;
+}
+
+.contenedor{
+    margin: 200px;
+    width: 1000px;
+    height: 10000px;
+    background-color: white;
+}
+.parrafo{
+    padding: 40px;
+     background-color: white;  
+}
+h1{
+    text-align: center;
+}
+img{
+    margin: 130px;
+}
+#styled_video{
+    margin-left: 300px;
+}
